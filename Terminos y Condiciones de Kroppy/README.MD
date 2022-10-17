@@ -7,8 +7,8 @@
 # Mini indíce
 
 
-#####[Indice](")
+[Indice](")
 
-#####[Politicas de Servicio](*)
+[Politicas de Servicio](*)
 
-#####[Politicas de Privacidad](*)
+[Politicas de Privacidad](*)
