@@ -39,9 +39,10 @@ El Equipo de Kroppy no tiene control ni asume ninguna responsabilidad por el con
 El Usuario utilizará y se asegurará de que todos los Usuarios autorizados utilicen cada App, Software y Servicios en pleno cumplimiento de este Acuerdo, los términos de uso del Usuario final de kroppy y	todas las leyes y reglamentaciones aplicables. El Usuario declara y garantiza que (i) ha accedido y revisado los términos de uso u otras políticas relacionadas con una App proporcionada por Kroppy,	(ii) comprende los requisitos de los mismos y (iii) acepta cumplirlos. Kroppy puede suspender la Cuenta del Usuario y el acceso a cada Plataforma y la prestación de los Servicios en cualquier momento y sin previo aviso si Kroppy cree que el Usuario está violando este Acuerdo. Si bien Kroppy	no tiene la obligación de monitorear el uso que el Usuario hace de una App, Kroppy puede hacerlo y puede prohibir cualquier uso que crea que puede ser (o supuestamente ser) una violación de lo anterior.
 
 #3.	Sanciones y Baneos del bot
-####Nos reservamos a dar informacion sobre los baneos repentinos/blacklisteos del bot hacia el usuario, no seran avisados previamente, en algunos casos muy otorgados se podra dar un aviso previo de el motivo de su blacklisteo del bot.
 
-#####3.1	todo	incumplimiento de los terminos de Kroppy sera sancionado con su respectiva sancion al usuario sin motivo de apelacion dependiendo del grado que haya cometido.
+Nos reservamos a dar informacion sobre los baneos repentinos/blacklisteos del bot hacia el usuario, no seran avisados previamente, en algunos casos muy otorgados se podra dar un aviso previo de el motivo de su blacklisteo del bot.
+
+##3.1	todo	incumplimiento de los terminos de Kroppy sera sancionado con su respectiva sancion al usuario sin motivo de apelacion dependiendo del grado que haya cometido.
 
 #####3.2	Usuarios menores de edad
 
