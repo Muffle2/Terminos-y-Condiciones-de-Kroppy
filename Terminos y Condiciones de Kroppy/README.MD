@@ -36,7 +36,7 @@ El Equipo de Kroppy no tiene control ni asume ninguna responsabilidad por el con
 
 
 #2	Monitoreo.
-#####El Usuario utilizará y se asegurará de que todos los Usuarios autorizados utilicen cada App, Software y Servicios en pleno cumplimiento de este Acuerdo, los términos de uso del Usuario final de kroppy y	todas las leyes y reglamentaciones aplicables. El Usuario declara y garantiza que (i) ha accedido y revisado los términos de uso u otras políticas relacionadas con una App proporcionada por Kroppy,	(ii) comprende los requisitos de los mismos y (iii) acepta cumplirlos. Kroppy puede suspender la Cuenta del Usuario y el acceso a cada Plataforma y la prestación de los Servicios en cualquier momento y sin previo aviso si Kroppy cree que el Usuario está violando este Acuerdo. Si bien Kroppy	no tiene la obligación de monitorear el uso que el Usuario hace de una App, Kroppy puede hacerlo y puede prohibir cualquier uso que crea que puede ser (o supuestamente ser) una violación de lo anterior.
+El Usuario utilizará y se asegurará de que todos los Usuarios autorizados utilicen cada App, Software y Servicios en pleno cumplimiento de este Acuerdo, los términos de uso del Usuario final de kroppy y	todas las leyes y reglamentaciones aplicables. El Usuario declara y garantiza que (i) ha accedido y revisado los términos de uso u otras políticas relacionadas con una App proporcionada por Kroppy,	(ii) comprende los requisitos de los mismos y (iii) acepta cumplirlos. Kroppy puede suspender la Cuenta del Usuario y el acceso a cada Plataforma y la prestación de los Servicios en cualquier momento y sin previo aviso si Kroppy cree que el Usuario está violando este Acuerdo. Si bien Kroppy	no tiene la obligación de monitorear el uso que el Usuario hace de una App, Kroppy puede hacerlo y puede prohibir cualquier uso que crea que puede ser (o supuestamente ser) una violación de lo anterior.
 
 #3.	Sanciones y Baneos del bot
 ####Nos reservamos a dar informacion sobre los baneos repentinos/blacklisteos del bot hacia el usuario, no seran avisados previamente, en algunos casos muy otorgados se podra dar un aviso previo de el motivo de su blacklisteo del bot.
@@ -47,7 +47,7 @@ El Equipo de Kroppy no tiene control ni asume ninguna responsabilidad por el con
 
 El uso del Bot no está permitido para menores de 13 años o menores de la edad de consentimiento legal para su país. Esto cumple con los [ Términos de servicio de Discord ] (https://discord.com/terms). No se almacenará información deliberadamente de un usuario menor de edad. Si se descubre que un usuario es menor de edad, tomaremos todas las medidas necesarias para eliminar los datos almacenados. Si dada la casualidad que el usuario es un staff del equipo se le retirara el cargo de staff e eliminara todos sus datos posibles siempre y cuando no afecten en el funcionamiento del bot, la unica excepcion que hacemos es si sus padres/tutor legal son concienten y firman un acuerdo.
 
-##4.	Conctacto
+#4.	Conctacto
 
 Si quiere ponerse en contacto con nosotros puede unirse en nuestro [ discord ] (https://discord.gg/8NetpFZ4Md) o por via mensaje directo de discord en alguno de los staffs disponibles que hay.
 
