@@ -41,7 +41,7 @@ El Equipo de Kroppy no tiene control ni asume ninguna responsabilidad por el con
 
 ##### 3.2	Usuarios menores de edad
 
-El uso del Bot no está permitido para menores de 13 años o menores de la edad de consentimiento legal para su país. Esto cumple con los [ Términos de servicio de Discord ] (https://discord.com/terms). No se almacenará información deliberadamente de un usuario menor de edad. Si se descubre que un usuario es menor de edad, tomaremos todas las medidas necesarias para eliminar los datos almacenados. Si dada la casualidad que el usuario es un Staff del Equipo se le retirara el cargo de Staff e eliminara todos sus datos posibles siempre y cuando no afecten en el funcionamiento del bot, la unica excepcion que hacemos es si sus padres/tutor legal son concienten y firman un acuerdo.
+3.2.2 El uso del Bot no está permitido para menores de 13 años o menores de la edad de consentimiento legal para su país. Esto cumple con los [ Términos de servicio de Discord ] (https://discord.com/terms). No se almacenará información deliberadamente de un usuario menor de edad. Si se descubre que un usuario es menor de edad, tomaremos todas las medidas necesarias para eliminar los datos almacenados. Si dada la casualidad que el usuario es un Staff del Equipo se le retirara el cargo de Staff e eliminara todos sus datos posibles siempre y cuando no afecten en el funcionamiento del bot, la unica excepcion que hacemos es si sus padres/tutor legal son concienten y firman un acuerdo.
 
 # 4.	Conctacto
 
