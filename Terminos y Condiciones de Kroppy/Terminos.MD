@@ -8,6 +8,8 @@
 
 - Con la palabra ***`Equipo`*** se hace referencia a todas las personas que constituyen ya sean los Desarrolladores, Programadores y/o Staff de Kroppy.
 
+# Terminos y Condiciones de Kroppy
+
 # 1. Sanciones y Baneos del bot
 
 #### Nos reservamos a dar informacion sobre los baneos repentinos/blacklisteos del bot hacia el usuario, no seran avisados previamente, en algunos casos muy otorgados se podra dar un aviso previo de el motivo de su blacklisteo del bot.
