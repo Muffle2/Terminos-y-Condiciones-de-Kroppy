@@ -1,4 +1,4 @@
-##Terminos y Condiciones de Kroppy
+###Terminos y Condiciones de Kroppy
 
 Ultima actualización: 18 de	octubre	del 2022.
 
