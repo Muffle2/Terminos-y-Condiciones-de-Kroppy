@@ -2,8 +2,6 @@
 
 - Con las palabras ***`Desarrolladores / Programadores / Staff`*** se hace referencia a las personas que han contribuido ya sea mediante cambios en el Código interno de cualquiera de las Apps, los Servidores de soporte de Kroppy, o así sea personas que han contribuido a la imagen pública de Kroppy (imagen, recomendaciones o configuración).
 
-- Con las palabras ***`Cuenta(s)`*** se hace referencia a la Cuenta del Usuario referenciada en las tablas de bases de datos o a su Cuenta dentro de la plataforma de Discord Inc.
-
 - Con la palabra ***`Ticket`*** se hace referencia a la acción del Usuario de abrir mediante un sistema de terceros, un apartado donde este pueda dar a conocer sus dudas todo esto bajo la plataforma de Discord.
 
 - Con la palabra ***`Equipo`*** se hace referencia a todas las personas que constituyen ya sean los Desarrolladores, Programadores y/o Staff de Kroppy.
