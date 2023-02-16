@@ -1,6 +1,6 @@
 ![KroppyTrems](https://github.com/Muffle2/Terminos-y-Condiciones-de-Kroppy/blob/main/Terminos%20y%20Condiciones%20de%20Kroppy/imagenes/Terminos%20y%20condiciones%20de%20Kroppy.png?raw=true)
 
-Ultima actualización: 18 de	octubre	del 2022.
+Ultima actualización: 16 de	febrero	del 2023.
 
 ## Indice
 
