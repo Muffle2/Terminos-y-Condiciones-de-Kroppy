@@ -21,4 +21,4 @@ Nos reservamos el derecho de dar información sobre los baneos repentinos o blac
 ## Disputas legales
 3.1 Todas las disputas legales se resolverán de acuerdo con las leyes de Gerona, Cataluña.
 
-El usuario acepta los términos y condiciones de uso al utilizar el Bot de Discord "Kroppy". Si el usuario no está de acuerdo con estos términos, deberá dejar de usar el bot inmediatamente. El equipo de desarrollo del Bot de Discord "Kroppy" se reserva el derecho de modificar los términos y condiciones en cualquier momento y sin previo aviso.
+El usuario acepta los términos y condiciones de uso al utilizar el Bot de Discord "Kroppy". Si el usuario no está de acuerdo con estos términos, deberá dejar de usar el bot inmediatamente. El equipo de desarrollo del Bot de Discord "Kroppy" se reserva el derecho de modificar los términos y condiciones en cualquier momento y sin previo aviso
